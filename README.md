@@ -2,9 +2,12 @@
 
 This project demonstrates how to use machine learning to predict student performance using data from a student performance dataset. The code preprocesses the data, trains a linear regression model, and evaluates its accuracy.
 
+
 ## Dataset
 
-The dataset used in this script is available for download from the UCI Machine Learning Repository.. The specific dataset is student-mat.csv and contains information about students and their academic performance.
+The dataset used in this script is available for download from the UCI Machine Learning Repository. The specific dataset, `student-mat.csv`, contains information about students and their academic performance. 
+
+You can access and download the dataset from the following link: [Student Performance Dataset](https://archive.ics.uci.edu/dataset/320/student+performance)
 
 ## Data Preprocessing
 
